@@ -1,2 +1,2 @@
 # SMS-Spam-Detection
-Exploring Machine Learning Models for Effective SMS Spam Detection
+Exploring Artificial Intelligence  Models for Effective SMS Spam Detection
