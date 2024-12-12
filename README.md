@@ -45,7 +45,7 @@ Visualize spam and non-spam message frequencies.
 
 Analyze text length distribution in spam and non-spam messages.
 
-Model Building:
+**Model Building:**
 
 .Create machine learning models:
 
@@ -72,25 +72,15 @@ Visualize results using bar plots for better comparison.
 **6. Model Results & Interpretation**
 **Naive Bayes Model:**
 
-Achieves an accuracy of X% on the test set.
-
-Precision: X%, Recall: X%, F1-score: X%.
+Achieves an accuracy of the test set.
 
 Explanation: Naive Bayes uses word frequency to model spam/non-spam probability. It assumes feature independence, which might not always be true but works well for text classification.
 
 Neural Networks with Custom Embeddings:
 
-Achieves an accuracy of X% on the test set.
-
-Precision: X%, Recall: X%, F1-score: X%.
-
 Explanation: This model learns word embeddings and captures sequential dependencies using LSTM layers. It's flexible and models complex relationships but requires more computational power.
 
 **Bidirectional LSTM Model:**
-
-Achieves an accuracy of X% on the test set.
-
-Precision: X%, Recall: X%, F1-score: X%.
 
 Explanation: Bidirectional LSTM processes input sequences in both directions, effectively capturing long-term dependencies. It’s well-suited for sequential data but requires more training data and resources.
 
