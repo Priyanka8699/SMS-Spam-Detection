@@ -1,8 +1,7 @@
 # SMS-Spam-Detection
 Exploring Artificial Intelligence  Models for Effective SMS Spam Detection
-SMS Spam Detection Using TensorFlow
 
-1. Overview
+**1. Overview**
 Welcome to the SMS Spam Detection project documentation. This initiative aims to classify text messages, specifically for spam detection. Leveraging machine learning, we aim to accurately identify spam messages within a dataset. The project utilizes Python and libraries such as NumPy, pandas, Matplotlib, Seaborn, TensorFlow, and Scikit-learn.
 
 2. Objectives
